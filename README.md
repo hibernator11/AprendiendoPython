@@ -1,5 +1,9 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/hibernator11/AprendiendoPython/master)
 
+
+[![DOI](https://zenodo.org/badge/254194822.svg)](https://zenodo.org/badge/latestdoi/254194822)
+
+
 # AprendiendoPython
 Notebooks para aprender python 3
 

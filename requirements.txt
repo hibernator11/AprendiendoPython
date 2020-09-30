@@ -1,6 +1,6 @@
 requests==2.23.0
 nltk==3.4
 numpy==1.19.2
-es_core_news_sm==2.0.0
+es-core-news-sm==2.0.0
 beautifulsoup4==4.6.0
 spacy==2.0.18

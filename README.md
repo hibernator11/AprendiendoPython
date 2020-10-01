@@ -17,5 +17,5 @@ Notebooks para aprender python 3
 [Introduccion-NLTK](Introduccion-NLTK.ipynb) introduce la librera NLTK para el procesamiento de textos.
 
 ## NLP-avanzado.ipynb
-[NLP-avanzado](NLP-avanzado.ipynb) Procesamiento avanzado.
+[NLP-avanzado](NLP-avanzado.ipynb) procesamiento avanzado.
 

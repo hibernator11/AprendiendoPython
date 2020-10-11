@@ -5,17 +5,16 @@
 
 
 # AprendiendoPython
-Notebooks para aprender python 3
+Notebooks para aprender python 3 y NLP.
 
-## AprendiendoPython.ipynb
+### AprendiendoPython.ipynb
 [AprendiendoPython](AprendiendoPython.ipynb) introduce el lenguaje de programación Python 3. También contiene ejemplos de ficheros de texto y JSON.
 
-## codificacion-caracteres-python.ipynb
-[codificacion-caracteres-python](codificacion-caracteres-python.ipynb) introduce la codificación de las cadenas de caracteres en Python 3.
-
-## Introduccion-NLTK.ipynb
+### Introduccion-NLTK.ipynb
 [Introduccion-NLTK](Introduccion-NLTK.ipynb) introduce la librera NLTK para el procesamiento de textos.
 
-## NLP-avanzado.ipynb
+### NLP-avanzado.ipynb
 [NLP-avanzado](NLP-avanzado.ipynb) procesamiento avanzado.
 
+### codificacion-caracteres-python.ipynb
+[codificacion-caracteres-python](codificacion-caracteres-python.ipynb) introduce la codificación de las cadenas de caracteres en Python 3.
